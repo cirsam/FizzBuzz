@@ -1,0 +1,7 @@
+C:\Users\cirsa\source\repos\CsharptInterviewquestions\CsharptInterviewquestions\bin\Debug\CsharptInterviewquestions.exe.config
+C:\Users\cirsa\source\repos\CsharptInterviewquestions\CsharptInterviewquestions\bin\Debug\CsharptInterviewquestions.exe
+C:\Users\cirsa\source\repos\CsharptInterviewquestions\CsharptInterviewquestions\bin\Debug\CsharptInterviewquestions.pdb
+C:\Users\cirsa\source\repos\CsharptInterviewquestions\CsharptInterviewquestions\obj\Debug\CsharptInterviewquestions.csprojAssemblyReference.cache
+C:\Users\cirsa\source\repos\CsharptInterviewquestions\CsharptInterviewquestions\obj\Debug\CsharptInterviewquestions.csproj.CoreCompileInputs.cache
+C:\Users\cirsa\source\repos\CsharptInterviewquestions\CsharptInterviewquestions\obj\Debug\CsharptInterviewquestions.exe
+C:\Users\cirsa\source\repos\CsharptInterviewquestions\CsharptInterviewquestions\obj\Debug\CsharptInterviewquestions.pdb
